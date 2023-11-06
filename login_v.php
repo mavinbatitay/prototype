@@ -35,7 +35,7 @@
 		<div class="text-center" style="padding-top: 7em;">
 			<img src="../img/mllogo1c.png" id="logo">
 		</div>
-		<h1 class="text-center">M. Lhuillier Financial Services Inc.</h1>
+		<h1 class="text-center">Financial Services Inc.</h1>
 		<p class="text-center">Cash Balance Portal</p>
 	</div>
 	<div class="col-md-4" style="padding-top: 7em;">
